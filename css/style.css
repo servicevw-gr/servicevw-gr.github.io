@@ -73,7 +73,6 @@ body{
 	font-size:62.5%;
 	font-family: "Helvetica Neue", Arial, Helvetica, sans-serif;
 	color:#666;
-	// background:url(images/grid.gif) top center repeat-y #fff; /* Uncomment to display the grid */
 	border-top:0.5em solid #666;
 	padding:0 1em;
 }
